@@ -1,0 +1,11 @@
+Original_ID,Mapped_ID
+Bensin,0
+Diesel,1
+Elektrisitet,2
+El + Diesel,3
+El + Bensin,4
+Hydrogen,5
+Elektrisk,6
+Gass + Bensin,7
+,8
+Gass,9
